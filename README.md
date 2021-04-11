@@ -9,7 +9,7 @@ OIM目前已经含服务端、PC、移动端即时通讯解决方案，主要包
 | [oim-server](https://gitee.com/oimchat/oim-server)     | OIM服务端源码仓库                                          |含Spring Cloud 微服务和单机版，添加服务即可添加加功能|
 | [oim-fx](https://gitee.com/oimchat/oim-fx)             | 基于[JavaFX] 实现的桌面客户端 支持 Windows、Mac、Linux        |      |
 | [oim-e](https://gitee.com/oimchat/oim-e)               | 基于[Electron]实现的桌面客户端 支持 Windows、Mac、Linux       |      |
-| [oim-web](https://gitee.com/oimchat/oim-web)           | Web平台的Demo, [体验地址](http://web.wildfirechat.net)      |      |
+| [oim-web](https://gitee.com/oimchat/oim-web)           | Web平台 [体验地址](http://web.oimchat.com)      |      |
 | [oim-m](https://gitee.com/oimchat/oim-m)               | Vue 实现的移动客户端 可以通过cordova 打包成安卓和IOS客户端       |      |
 
 
